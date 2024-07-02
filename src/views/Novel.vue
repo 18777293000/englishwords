@@ -1,17 +1,6 @@
 <template>
     <div class="news">
-        <!-- <banner title="小说集合" /> -->
-        <div class="news-container">
-            <el-row :gutter="20">
-                <el-col :span="24" style="border: 1px solid red">
-                    <div class="news-item">
-                        <iframe id="inlineFrameExample" title="Inline Frame Example" width="600" height="600"
-                            src="http://m.boqugew.com/shu/60969/20301729.html">
-                        </iframe>
-                    </div>
-                </el-col>
-            </el-row>
-        </div>
+
     </div>
 </template>
 
